@@ -1,3 +1,4 @@
 #测试
-y=2
-print(y)
+x=1
+y=6
+print(x+y)
